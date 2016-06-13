@@ -44,7 +44,7 @@ void MergeSort(int arr[], int sizeofarr)
 
     int mid = sizeofarr/2;
 
-    /* Create two auxillary arrays */
+    /* Create two auxiliary arrays */
     int left[mid];
     int right[sizeofarr - mid];
 

@@ -145,7 +145,7 @@ int main(void)
             }
         }
     }
-    printf("DFS Done on Orginal Graph..\n");
+    printf("DFS Done on Original Graph..\n");
 
 
     /* DFS2: On reverse graph */
